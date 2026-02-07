@@ -1,0 +1,99 @@
+commit 6b53f8b5395036726af50f48f6b9c1b93311fdae
+Author: Min Park <mpark45@calstatela.edu>
+Date:   Sat Feb 7 14:10:47 2026 -0800
+
+    Delete git_log.txt.txt
+
+commit a55e4870e6e4e4645d27e5da5f4ee44be1ecb086
+Author: Min Park <mpark45@calstatela.edu>
+Date:   Sat Feb 7 14:09:52 2026 -0800
+
+    Create git_log.txt.txt
+
+commit b3a0384d8d2f7cc39c686d0db2773de4bd6dbdd1
+Author: Min Park <mpark45@calstatela.edu>
+Date:   Sat Feb 7 14:03:21 2026 -0800
+
+    Create README.md
+
+commit 210b5fb5419cb2cd2e41992e336ae9e68955b1df
+Merge: 4deb2a5 a0a2a6c
+Author: Min Park <mpark45@calstatela.edu>
+Date:   Sat Feb 7 14:03:19 2026 -0800
+
+    Update index.html
+
+commit a0a2a6c175c0c029bea9ec61dd22664fe1e18d2e
+Merge: 964a1d8 2ee3b62
+Author: Min Park <mpark45@calstatela.edu>
+Date:   Sat Feb 7 14:01:00 2026 -0800
+
+    Merge pull request #1 from MP20040724/index-fix
+    
+    Update index.html
+
+commit 2ee3b6205de8cfd171302127a5c8791864778b75
+Author: Min Park <mpark45@calstatela.edu>
+Date:   Sat Feb 7 13:54:50 2026 -0800
+
+    Update index.html
+
+commit 4deb2a53a826b8e8dffba4d0f1901c50157872e4
+Author: Min Park <mpark45@calstatela.edu>
+Date:   Sat Feb 7 13:49:18 2026 -0800
+
+    Update index.html
+
+commit 964a1d85ce097c7301d131d3e0242a5599d92cc6
+Author: Min Park <mpark45@calstatela.edu>
+Date:   Sat Feb 7 13:45:18 2026 -0800
+
+    Update repository description in README
+    
+    Correct the description of the repository.
+
+commit 4a50c503d92acf1517b15675e0ad771456e8889a
+Author: Min Park <mpark45@calstatela.edu>
+Date:   Sat Feb 7 13:44:04 2026 -0800
+
+    Add initial README with project title
+
+commit c3cb6006dbebe7c1c81357ee58cc08c6f52f796d
+Author: Min Park <mpark45@calstatela.edu>
+Date:   Sat Feb 7 13:33:04 2026 -0800
+
+    Update index.html
+
+commit 005692bea56525896e5d143a5184d74eff7dc1ed
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Tue Sep 3 20:32:19 2024 -0700
+
+    Deleted Color About Me
+    
+    This category is not needed.
+
+commit 53c064b2416ee48889b4b837fea7f88e75e0613a
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Tue Sep 3 20:24:43 2024 -0700
+
+    Adding Feature Stating Favorite Color
+    
+    Added a category in the page to list favorite color.
+
+commit 815ac319120c6d6b840d9d5e891a4de1fa082856
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Mon Sep 2 20:25:36 2024 -0700
+
+    Complete Revamp of index.html
+    
+    Completed a css style list giving a better design to the header, and information on the page.
+    
+    Created a header to clarify when
+    
+    Created a streamline format to deliver personalized information on the about me page.
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
